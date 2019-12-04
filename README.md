@@ -1,4 +1,7 @@
+app能正常运行，但是MainActivity里面有不能解析的symbol。
+
 # 简介
+
 DeveloperInterview 精简功能单纯查看题目内容App
 
 ## 下载
