@@ -1,3 +1,9 @@
+
+
+
+
+
+
 app能正常运行，但是MainActivity里面有不能解析的symbol。
 
 # 简介
